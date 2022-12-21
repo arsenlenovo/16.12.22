@@ -51,5 +51,8 @@ body, html {
 .colback:hover {
   transform: scale(1.04);
 }
+.navbar-brand {
+  margin-left: 165px;
+}
 
 
