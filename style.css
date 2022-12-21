@@ -28,6 +28,7 @@ body, html {
 }
 .navbar-menu li a {
   color: rgb(255, 255, 255);
+  opacity: 0.6;
 }
 
 
