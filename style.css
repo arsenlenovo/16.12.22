@@ -11,4 +11,7 @@ body, html {
   box-shadow: 0 4px 10px rgb(0, 0, 0, 0.1);
   position: absolute;
 }
+.navbar .container {
+  height: inherit;
+}
 
