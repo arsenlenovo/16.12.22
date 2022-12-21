@@ -65,5 +65,8 @@ body, html {
   padding-bottom: 30px;
   margin-left: 30px;
 }
+header {
+  background-image: url(/img/hero.png);
+}
 
 
