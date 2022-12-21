@@ -14,5 +14,6 @@ body, html {
 .navbar .container {
   height: inherit;
   display: flex;
+  justify-content: space-between;
 }
 
