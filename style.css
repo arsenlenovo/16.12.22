@@ -34,5 +34,8 @@ body, html {
   display: inline-block;
   transition: all 0.07s ease-in-out;
 }
+.navbar-wrap {
+  display: flex;
+}
 
 
