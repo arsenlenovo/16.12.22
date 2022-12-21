@@ -23,4 +23,8 @@ body, html {
   margin-bottom: 0;
   text-transform: uppercase;
 }
+.navbar-menu li {
+  display: inline-block;
+}
+
 
